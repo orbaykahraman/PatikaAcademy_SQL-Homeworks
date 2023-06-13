@@ -1,7 +1,7 @@
 ﻿# GelecegimAll_PatikaAcademy
  Merhabalar
 
-**Aşağıdaki sorgu senaryoları dvdrental örnek veri tabanı üzerinden gerçekleştirilmiştir. [Ödev soru linki](https://academy.patika.dev/tr/courses/sql/Odev4)**
+**Aşağıdaki sorgu senaryoları dvdrental örnek veri tabanı üzerinden gerçekleştirilmiştir. [Ödev soru linki](https://academy.patika.dev/tr/courses/sql/Odev6)**
 
 **Soru 1 / film tablosunda bulunan rental_rate sütunundaki değerlerin ortalaması nedir?**[Ödev cevap linki](https://github.com/orbaykahraman/GelecegimAll_PatikaAcademy/blob/main/SQL%20TEMELLER%C4%B0%20%C3%96DEVLER%C4%B0/SQL%20HOMEWORK%206/1.sql)
 
